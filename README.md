@@ -1,10 +1,9 @@
-# Recriando a simples tela de  login do insragran 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+# **Recriando a tela de login do Instagran**
 
-### Os requisitos são:
+>:Esse é o repositório usa Flexbox, na qual foi recriada a interface de login do Instagram!
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+### As tecnologias usadas:
 
-## 🚀 Let's code! 🚀
+>:* [HTML básico](https://www.w3schools.com/html/)
+>:* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
